@@ -1,0 +1,46 @@
+osh> No commands in history.
+osh> No commands in history.
+osh> osh> osh
+osh.c
+osh_test_result.log
+README.md
+shell_test.sh
+sudoku.c
+sudoku_gong.c
+test_cmds.tmp
+test_output.tmp
+test_sodoku_gong.c
+test_sudoku.c
+大作业3.txt
+osh> /home/user/Desktop/OSHomework2-and-so-on-3-4-5-etc.-
+osh> "OS Shell Test"
+osh> [3529] running in background
+osh> test1
+osh> test2
+osh> test3
+osh> test4
+osh> test5
+osh> test6
+osh> test7
+osh> test8
+osh> test9
+osh> test10
+osh> test11
+osh> 6 echo test2
+7 echo test3
+8 echo test4
+9 echo test5
+10 echo test6
+11 echo test7
+12 echo test8
+13 echo test9
+14 echo test10
+15 echo test11
+osh> test11
+echo test11
+osh> test5
+echo test5
+osh> Invalid history command.
+osh> No such command in history.
+osh> execvp: No such file or directory
+osh> 
